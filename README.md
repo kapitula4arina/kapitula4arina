@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I'm Oryna Kapitula</h1>
+<h1 align="left">👋 Hi, I'm Oryna Kapitula</h1>
 
-<p align="center">
+<p align="left">
 💻 Junior Fullstack Developer | React • TypeScript • Node.js  
 </p>
 
